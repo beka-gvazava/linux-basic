@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 yum install wget zip unzip
 wget wget https://download.configserver.com/csf.tgz
 tar -xzf csf.tgz
